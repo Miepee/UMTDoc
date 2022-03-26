@@ -10,6 +10,7 @@ var searchData=
   ['collisionshape_7',['CollisionShape',['../class_undertale_mod_lib_1_1_models_1_1_undertale_game_object.html#a5b05e63ebcf5e1b123cdca723a31dcf2',1,'UndertaleModLib::Models::UndertaleGameObject']]],
   ['colordepth_8',['ColorDepth',['../class_undertale_mod_lib_1_1_models_1_1_undertale_options.html#a907c7325ae01d879bea4b0cbaf91148e',1,'UndertaleModLib::Models::UndertaleOptions']]],
   ['constants_9',['Constants',['../class_undertale_mod_lib_1_1_models_1_1_undertale_options.html#a99484274d137f8b50db410e18af901e0',1,'UndertaleModLib::Models::UndertaleOptions']]],
-  ['creationcode_10',['CreationCode',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_game_object.html#ad2bcc20eeb2b76f5ff21286695f79dcd',1,'UndertaleModLib::Models::UndertaleRoom::GameObject']]],
-  ['creationcodeid_11',['CreationCodeId',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room.html#abe3356fe7c004691f3f42e8732315df3',1,'UndertaleModLib::Models::UndertaleRoom']]]
+  ['content_10',['Content',['../class_undertale_mod_lib_1_1_models_1_1_undertale_string.html#a78fb9a59ea2c09be874792da11a8da94',1,'UndertaleModLib::Models::UndertaleString']]],
+  ['creationcode_11',['CreationCode',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_game_object.html#ad2bcc20eeb2b76f5ff21286695f79dcd',1,'UndertaleModLib::Models::UndertaleRoom::GameObject']]],
+  ['creationcodeid_12',['CreationCodeId',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room.html#abe3356fe7c004691f3f42e8732315df3',1,'UndertaleModLib::Models::UndertaleRoom']]]
 ];

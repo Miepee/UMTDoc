@@ -335,21 +335,33 @@ IList&lt; <a class="el" href="class_undertale_mod_lib_1_1_models_1_1_undertale_s
 <tr class="separator:a14fb1afe46e653ac4bbb37093a8ba446"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a39ca05cf3c4f548570dab52c41c512ec"><td class="memItemLeft" align="right" valign="top"><a id="a39ca05cf3c4f548570dab52c41c512ec" name="a39ca05cf3c4f548570dab52c41c512ec"></a>
 ConcurrentDictionary&lt; string, string &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GMLCache</b><code> [get, set]</code></td></tr>
+<tr class="memdesc:a39ca05cf3c4f548570dab52c41c512ec"><td class="mdescLeft">&#160;</td><td class="mdescRight">A Dictionary&lt;TKey,TValue&gt;</p><dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">TKey</td><td></td></tr>
+  </table>
+  </dd>
+</dl>
+<p>of cached decompiled code, with the code name as the Key and the decompiled code text as the value. <br /></td></tr>
 <tr class="separator:a39ca05cf3c4f548570dab52c41c512ec"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a68e1da3240c939b556ad2a70197f9a86"><td class="memItemLeft" align="right" valign="top"><a id="a68e1da3240c939b556ad2a70197f9a86" name="a68e1da3240c939b556ad2a70197f9a86"></a>
 List&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GMLCacheFailed</b><code> [get, set]</code></td></tr>
+<tr class="memdesc:a68e1da3240c939b556ad2a70197f9a86"><td class="mdescLeft">&#160;</td><td class="mdescRight">A list of names of code entries which failed to compile or decompile. <br /></td></tr>
 <tr class="separator:a68e1da3240c939b556ad2a70197f9a86"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:abedc911cebc0307e588b511253c6e1ca"><td class="memItemLeft" align="right" valign="top"><a id="abedc911cebc0307e588b511253c6e1ca" name="abedc911cebc0307e588b511253c6e1ca"></a>
 ConcurrentBag&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GMLCacheChanged</b> = new()<code> [get, set]</code></td></tr>
+<tr class="memdesc:abedc911cebc0307e588b511253c6e1ca"><td class="mdescLeft">&#160;</td><td class="mdescRight">A list of names of modified code entries. <br /></td></tr>
 <tr class="separator:abedc911cebc0307e588b511253c6e1ca"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a83f11ed57f5bf7f545aae8f0ea8b44a2"><td class="memItemLeft" align="right" valign="top"><a id="a83f11ed57f5bf7f545aae8f0ea8b44a2" name="a83f11ed57f5bf7f545aae8f0ea8b44a2"></a>
 List&lt; string &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GMLEditedBefore</b><code> [get, set]</code></td></tr>
+<tr class="memdesc:a83f11ed57f5bf7f545aae8f0ea8b44a2"><td class="mdescLeft">&#160;</td><td class="mdescRight">A list of names of code entries that were edited before the "Use decompiled code cache" setting was enabled. <br /></td></tr>
 <tr class="separator:a83f11ed57f5bf7f545aae8f0ea8b44a2"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a886f98278cb243b4d1e7ed0eadc0906f"><td class="memItemLeft" align="right" valign="top"><a id="a886f98278cb243b4d1e7ed0eadc0906f" name="a886f98278cb243b4d1e7ed0eadc0906f"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>GMLCacheWasSaved</b><code> [get, set]</code></td></tr>
+<tr class="memdesc:a886f98278cb243b4d1e7ed0eadc0906f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Whether the decompiled code cache has been saved to disk with no new cache changes happening since then. <br /></td></tr>
 <tr class="separator:a886f98278cb243b4d1e7ed0eadc0906f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6f3f1cf6c6b926b8245f03a5da6019f7"><td class="memItemLeft" align="right" valign="top"><a id="a6f3f1cf6c6b926b8245f03a5da6019f7" name="a6f3f1cf6c6b926b8245f03a5da6019f7"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>GMLCacheIsReady</b> = true<code> [get, set]</code></td></tr>
+<tr class="memdesc:a6f3f1cf6c6b926b8245f03a5da6019f7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Whether the decompiled code cache is generated. This will be <code>false</code> if it's currently generating and <code>true</code> otherwise. <br /></td></tr>
 <tr class="separator:a6f3f1cf6c6b926b8245f03a5da6019f7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <a name="details" id="details"></a><h2 class="groupheader">Detailed Description</h2>

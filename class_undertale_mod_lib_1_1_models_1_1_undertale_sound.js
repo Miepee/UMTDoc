@@ -11,6 +11,7 @@ var class_undertale_mod_lib_1_1_models_1_1_undertale_sound =
     [ "AudioFile", "class_undertale_mod_lib_1_1_models_1_1_undertale_sound.html#a994310464ccc197dfaa199586abe276c", null ],
     [ "AudioGroup", "class_undertale_mod_lib_1_1_models_1_1_undertale_sound.html#a7a8038bb032e45f9e96ec10d4981e488", null ],
     [ "AudioID", "class_undertale_mod_lib_1_1_models_1_1_undertale_sound.html#abbd1e3783f86345a2df5c338ea35154c", null ],
+    [ "Effects", "class_undertale_mod_lib_1_1_models_1_1_undertale_sound.html#a90deccdba903d91ddbc3710df499091c", null ],
     [ "File", "class_undertale_mod_lib_1_1_models_1_1_undertale_sound.html#a8c37d87d9a0658a7b053da591d4d7750", null ],
     [ "Flags", "class_undertale_mod_lib_1_1_models_1_1_undertale_sound.html#ae7001982165211ea41c3c24c47e8c62c", null ],
     [ "GroupID", "class_undertale_mod_lib_1_1_models_1_1_undertale_sound.html#afbd8a09642289bbe3310ef1e8e84de82", null ],

@@ -114,6 +114,7 @@ Public Member Functions</h2></td></tr>
 override string&#160;</td><td class="memItemRight" valign="bottom"><b>ToString</b> ()</td></tr>
 <tr class="separator:a591b0df6d2570b07ed00601de967f5cf"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a4b53501642bc5041b520675b521a6812"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="class_undertale_mod_lib_1_1_models_1_1_undertale_variable.html#a4b53501642bc5041b520675b521a6812">SearchMatches</a> (string filter)</td></tr>
+<tr class="memdesc:a4b53501642bc5041b520675b521a6812"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a value indicating whether a specified substring occurs within this object.  <a href="class_undertale_mod_lib_1_1_models_1_1_undertale_variable.html#a4b53501642bc5041b520675b521a6812">More...</a><br /></td></tr>
 <tr class="separator:a4b53501642bc5041b520675b521a6812"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a02bb2c216e795b5ea7f99c78072195f9"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_undertale_mod_lib_1_1_undertale_object.html#a02bb2c216e795b5ea7f99c78072195f9">Serialize</a> (<a class="el" href="class_undertale_mod_lib_1_1_undertale_writer.html">UndertaleWriter</a> writer)</td></tr>
 <tr class="memdesc:a02bb2c216e795b5ea7f99c78072195f9"><td class="mdescLeft">&#160;</td><td class="mdescRight">Serializes the data file into a specified <a class="el" href="class_undertale_mod_lib_1_1_undertale_writer.html">UndertaleWriter</a>.  <a href="interface_undertale_mod_lib_1_1_undertale_object.html#a02bb2c216e795b5ea7f99c78072195f9">More...</a><br /></td></tr>
@@ -121,8 +122,8 @@ override string&#160;</td><td class="memItemRight" valign="bottom"><b>ToString</
 <tr class="memitem:a4b30884eeeb6952e52b6c0fe603daf84"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_undertale_mod_lib_1_1_undertale_object.html#a4b30884eeeb6952e52b6c0fe603daf84">Unserialize</a> (<a class="el" href="class_undertale_mod_lib_1_1_undertale_reader.html">UndertaleReader</a> reader)</td></tr>
 <tr class="memdesc:a4b30884eeeb6952e52b6c0fe603daf84"><td class="mdescLeft">&#160;</td><td class="mdescRight">Deserializes from a specified <a class="el" href="class_undertale_mod_lib_1_1_undertale_reader.html">UndertaleReader</a> to the current data file.  <a href="interface_undertale_mod_lib_1_1_undertale_object.html#a4b30884eeeb6952e52b6c0fe603daf84">More...</a><br /></td></tr>
 <tr class="separator:a4b30884eeeb6952e52b6c0fe603daf84"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a68c184855ba2fdc524ea9261419e03e8"><td class="memItemLeft" align="right" valign="top"><a id="a68c184855ba2fdc524ea9261419e03e8" name="a68c184855ba2fdc524ea9261419e03e8"></a>
-bool&#160;</td><td class="memItemRight" valign="bottom"><b>SearchMatches</b> (string filter)</td></tr>
+<tr class="memitem:a68c184855ba2fdc524ea9261419e03e8"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_undertale_mod_lib_1_1_i_searchable.html#a68c184855ba2fdc524ea9261419e03e8">SearchMatches</a> (string filter)</td></tr>
+<tr class="memdesc:a68c184855ba2fdc524ea9261419e03e8"><td class="mdescLeft">&#160;</td><td class="mdescRight">Returns a value indicating whether a specified substring occurs within this object.  <a href="interface_undertale_mod_lib_1_1_i_searchable.html#a68c184855ba2fdc524ea9261419e03e8">More...</a><br /></td></tr>
 <tr class="separator:a68c184855ba2fdc524ea9261419e03e8"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="properties" name="properties"></a>
@@ -173,7 +174,16 @@ int&#160;</td><td class="memItemRight" valign="bottom"><b>NameStringID</b><code>
       </table>
 </div><div class="memdoc">
 
-<p>Implements <a class="el" href="interface_undertale_mod_lib_1_1_i_searchable.html">UndertaleModLib.ISearchable</a>.</p>
+<p>Returns a value indicating whether a specified substring occurs within this object. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">filter</td><td>The string to seek. Case insensitive.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd><code>true</code> if <em>filter</em>  occurs within this object, or if <em>filter</em>  is the empty string (""); otherwise, false.</dd></dl>
+
+<p>Implements <a class="el" href="interface_undertale_mod_lib_1_1_i_searchable.html#a68c184855ba2fdc524ea9261419e03e8">UndertaleModLib.ISearchable</a>.</p>
 
 </div>
 </div>

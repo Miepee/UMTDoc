@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['parsereferencechain_0',['ParseReferenceChain',['../class_undertale_mod_lib_1_1_models_1_1_undertale_instruction_1_1_reference.html#a4aaa3544089a564d579f765756bcd046',1,'UndertaleModLib::Models::UndertaleInstruction::Reference']]],
-  ['promptchoosedirectory_1',['PromptChooseDirectory',['../interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#ac9fe942f40554918030e256d3965c387',1,'UndertaleModLib::Scripting::IScriptInterface']]],
-  ['promptloadfile_2',['PromptLoadFile',['../interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a09902e3d453f17e8baa62dc99c983588',1,'UndertaleModLib::Scripting::IScriptInterface']]]
+  ['makenewdatafile_0',['MakeNewDataFile',['../interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#ad948cc0475b3ff3625d27add21cd55df',1,'UndertaleModLib::Scripting::IScriptInterface']]],
+  ['messagehandlerdelegate_1',['MessageHandlerDelegate',['../class_undertale_mod_lib_1_1_undertale_reader.html#a7e5474390c1ca5a0917f6f72d87f5608',1,'UndertaleModLib::UndertaleReader']]]
 ];
