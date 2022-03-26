@@ -10,5 +10,6 @@ var searchData=
   ['layertype_7',['LayerType',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_layer.html#a0fe8b62cb885b8ccaa022252152f7714',1,'UndertaleModLib::Models::UndertaleRoom::Layer']]],
   ['licensecrc32_8',['LicenseCRC32',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#a6778b614e25d58a51193dada0a443835',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]],
   ['licensemd5_9',['LicenseMD5',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#ad030ee792535f97a580a95242dfd1107',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]],
-  ['lineardamping_10',['LinearDamping',['../class_undertale_mod_lib_1_1_models_1_1_undertale_game_object.html#ab74ddbb8ab627c5f6196a1ab7cc3823b',1,'UndertaleModLib::Models::UndertaleGameObject']]]
+  ['lineardamping_10',['LinearDamping',['../class_undertale_mod_lib_1_1_models_1_1_undertale_game_object.html#ab74ddbb8ab627c5f6196a1ab7cc3823b',1,'UndertaleModLib::Models::UndertaleGameObject']]],
+  ['localscount_11',['LocalsCount',['../class_undertale_mod_lib_1_1_models_1_1_undertale_code.html#afc1116a3e8214a0ffe0eba3808bca6f2',1,'UndertaleModLib::Models::UndertaleCode']]]
 ];

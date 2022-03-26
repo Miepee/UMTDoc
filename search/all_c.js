@@ -24,7 +24,8 @@ var searchData=
   ['licensemd5_21',['LicenseMD5',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#ad030ee792535f97a580a95242dfd1107',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]],
   ['lineardamping_22',['LinearDamping',['../class_undertale_mod_lib_1_1_models_1_1_undertale_game_object.html#ab74ddbb8ab627c5f6196a1ab7cc3823b',1,'UndertaleModLib::Models::UndertaleGameObject']]],
   ['lintumtscript_23',['LintUMTScript',['../interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#ae6a70bb4eca247e1b1a3bd424ff2977e',1,'UndertaleModLib::Scripting::IScriptInterface']]],
-  ['localvar_24',['LocalVar',['../class_undertale_mod_lib_1_1_models_1_1_undertale_code_locals_1_1_local_var.html',1,'UndertaleModLib::Models::UndertaleCodeLocals']]],
-  ['loopcontext_25',['LoopContext',['../struct_undertale_mod_lib_1_1_compiler_1_1_compiler_1_1_assembly_writer_1_1_loop_context.html',1,'UndertaleModLib::Compiler::Compiler::AssemblyWriter']]],
-  ['loophlstatement_26',['LoopHLStatement',['../class_undertale_mod_lib_1_1_decompiler_1_1_decompiler_1_1_loop_h_l_statement.html',1,'UndertaleModLib::Decompiler::Decompiler']]]
+  ['localscount_24',['LocalsCount',['../class_undertale_mod_lib_1_1_models_1_1_undertale_code.html#afc1116a3e8214a0ffe0eba3808bca6f2',1,'UndertaleModLib::Models::UndertaleCode']]],
+  ['localvar_25',['LocalVar',['../class_undertale_mod_lib_1_1_models_1_1_undertale_code_locals_1_1_local_var.html',1,'UndertaleModLib::Models::UndertaleCodeLocals']]],
+  ['loopcontext_26',['LoopContext',['../struct_undertale_mod_lib_1_1_compiler_1_1_compiler_1_1_assembly_writer_1_1_loop_context.html',1,'UndertaleModLib::Compiler::Compiler::AssemblyWriter']]],
+  ['loophlstatement_27',['LoopHLStatement',['../class_undertale_mod_lib_1_1_decompiler_1_1_decompiler_1_1_loop_h_l_statement.html',1,'UndertaleModLib::Decompiler::Decompiler']]]
 ];
