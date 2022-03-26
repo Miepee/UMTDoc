@@ -30,7 +30,7 @@ var searchData=
   ['timelines_27',['Timelines',['../class_undertale_mod_lib_1_1_undertale_data.html#aebbdea9c24dbecb49e4d56aa7e1c5f54',1,'UndertaleModLib::UndertaleData']]],
   ['timestamp_28',['Timestamp',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#a2b7282e73a61c190bdbf52f88ba2b39d',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]],
   ['token_29',['Token',['../class_undertale_mod_lib_1_1_compiler_1_1_compiler_1_1_lexer_1_1_token.html',1,'UndertaleModLib::Compiler::Compiler::Lexer']]],
-  ['toolinfo_30',['ToolInfo',['../class_undertale_mod_lib_1_1_tool_info.html',1,'UndertaleModLib']]],
+  ['toolinfo_30',['ToolInfo',['../class_undertale_mod_lib_1_1_undertale_data.html#acbc64708287aba24e62c332849c9910a',1,'UndertaleModLib.UndertaleData.ToolInfo()'],['../class_undertale_mod_lib_1_1_tool_info.html',1,'UndertaleModLib.ToolInfo']]],
   ['track_31',['Track',['../class_undertale_mod_lib_1_1_models_1_1_undertale_sequence_1_1_track.html',1,'UndertaleModLib::Models::UndertaleSequence']]],
   ['trackkeyframes_32',['TrackKeyframes',['../class_undertale_mod_lib_1_1_models_1_1_undertale_sequence_1_1_track_keyframes.html',1,'UndertaleModLib::Models::UndertaleSequence']]],
   ['transparent_33',['Transparent',['../class_undertale_mod_lib_1_1_models_1_1_undertale_background.html#add5b5a49a16665e1f091d0f5ce035dda',1,'UndertaleModLib.Models.UndertaleBackground.Transparent()'],['../class_undertale_mod_lib_1_1_models_1_1_undertale_sprite.html#a8edd7a03adaf4b7bd2cd2f342af03333',1,'UndertaleModLib.Models.UndertaleSprite.Transparent()']]],

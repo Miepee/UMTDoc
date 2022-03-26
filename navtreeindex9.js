@@ -1,0 +1,23 @@
+var NAVTREEINDEX9 =
+{
+"namespace_undertale_mod_lib_1_1_models.html#abcd19730687cb5cd4c8b9f26eb3f97e4a0182552d5e4261f81f5da8211bdc4fd5":[0,0,0,2,56,7],
+"namespace_undertale_mod_lib_1_1_models.html#abcd19730687cb5cd4c8b9f26eb3f97e4a138c9c87aab98e7e38110841ece929b5":[0,0,0,2,56,6],
+"namespace_undertale_mod_lib_1_1_models.html#abcd19730687cb5cd4c8b9f26eb3f97e4a2d03c2d5a7ec65ef4619e0582c272ec2":[0,0,0,2,56,0],
+"namespace_undertale_mod_lib_1_1_models.html#abcd19730687cb5cd4c8b9f26eb3f97e4a5f2aea575e0efec04466d86a0cca97f4":[0,0,0,2,56,4],
+"namespace_undertale_mod_lib_1_1_models.html#abcd19730687cb5cd4c8b9f26eb3f97e4a657ba97bea520ec2b105224d6e7105b0":[0,0,0,2,56,1],
+"namespace_undertale_mod_lib_1_1_models.html#abcd19730687cb5cd4c8b9f26eb3f97e4a6cc86790e3e99e2f8fdd8722c99151c6":[0,0,0,2,56,8],
+"namespace_undertale_mod_lib_1_1_models.html#abcd19730687cb5cd4c8b9f26eb3f97e4a9d723d04c40bfd81835c0766a698cf63":[0,0,0,2,56,2],
+"namespace_undertale_mod_lib_1_1_models.html#abcd19730687cb5cd4c8b9f26eb3f97e4acf36eed5d3901718ec9d6e8ac35c2c38":[0,0,0,2,56,3],
+"namespace_undertale_mod_lib_1_1_models.html#abcd19730687cb5cd4c8b9f26eb3f97e4aeb767b7bdd1802b3c3dc9ac63efe6719":[0,0,0,2,56,5],
+"namespace_undertale_mod_lib_1_1_models_debug.html":[0,0,0,3],
+"namespace_undertale_mod_lib_1_1_scripting.html":[0,0,0,4],
+"namespace_undertale_mod_lib_1_1_util.html":[0,0,0,5],
+"namespacemembers.html":[0,1,0],
+"namespacemembers_enum.html":[0,1,1],
+"namespaces.html":[0,0],
+"pages.html":[],
+"struct_undertale_mod_lib_1_1_ipc_message__t.html":[1,0,0,6],
+"struct_undertale_mod_lib_1_1_ipc_message__t.html":[0,0,0,6],
+"struct_undertale_mod_lib_1_1_ipc_reply__t.html":[0,0,0,7],
+"struct_undertale_mod_lib_1_1_ipc_reply__t.html":[1,0,0,7]
+};

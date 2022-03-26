@@ -225,21 +225,23 @@ void&#160;</td><td class="memItemRight" valign="bottom"><b>HideProgressBar</b> (
 void&#160;</td><td class="memItemRight" valign="bottom"><b>EnableUI</b> ()</td></tr>
 <tr class="memdesc:ac81f607776ddc29b3ae8f8b34733386b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Enables the UI. <br /></td></tr>
 <tr class="separator:ac81f607776ddc29b3ae8f8b34733386b"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a4d7390e1a50a9213a18cf512b5b8cfac"><td class="memItemLeft" align="right" valign="top"><a id="a4d7390e1a50a9213a18cf512b5b8cfac" name="a4d7390e1a50a9213a18cf512b5b8cfac"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SyncBinding</b> (string resourceType, bool enable)</td></tr>
+<tr class="memitem:a4d7390e1a50a9213a18cf512b5b8cfac"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a4d7390e1a50a9213a18cf512b5b8cfac">SyncBinding</a> (string resourceType, bool enable)</td></tr>
+<tr class="memdesc:a4d7390e1a50a9213a18cf512b5b8cfac"><td class="mdescLeft">&#160;</td><td class="mdescRight">Allows scripts to synchronize their assets with the lists from the UI.  <a href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a4d7390e1a50a9213a18cf512b5b8cfac">More...</a><br /></td></tr>
 <tr class="separator:a4d7390e1a50a9213a18cf512b5b8cfac"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac3457cc9f8bc1075c1521eea78bd03b2"><td class="memItemLeft" align="right" valign="top"><a id="ac3457cc9f8bc1075c1521eea78bd03b2" name="ac3457cc9f8bc1075c1521eea78bd03b2"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>SyncBinding</b> (bool enable=false)</td></tr>
-<tr class="separator:ac3457cc9f8bc1075c1521eea78bd03b2"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:aefac4ab6d1d8b71d2386096394abb531"><td class="memItemLeft" align="right" valign="top"><a id="aefac4ab6d1d8b71d2386096394abb531" name="aefac4ab6d1d8b71d2386096394abb531"></a>
-void&#160;</td><td class="memItemRight" valign="bottom"><b>StartUpdater</b> ()</td></tr>
-<tr class="separator:aefac4ab6d1d8b71d2386096394abb531"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:abd1e6b49560a11bf4277c5318ea4846c"><td class="memItemLeft" align="right" valign="top"><a id="abd1e6b49560a11bf4277c5318ea4846c" name="abd1e6b49560a11bf4277c5318ea4846c"></a>
-Task&#160;</td><td class="memItemRight" valign="bottom"><b>StopUpdater</b> ()</td></tr>
-<tr class="separator:abd1e6b49560a11bf4277c5318ea4846c"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac8cd9f241861e6e5910f91f50fa72f52"><td class="memItemLeft" align="right" valign="top"><a id="ac8cd9f241861e6e5910f91f50fa72f52" name="ac8cd9f241861e6e5910f91f50fa72f52"></a>
-Task&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><b>GenerateGMLCache</b> (ThreadLocal&lt; <a class="el" href="class_undertale_mod_lib_1_1_decompiler_1_1_global_decompile_context.html">Decompiler.GlobalDecompileContext</a> &gt; decompileContext=null, object dialog=null, bool isSaving=false)</td></tr>
-<tr class="separator:ac8cd9f241861e6e5910f91f50fa72f52"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a4a33b23b500349187ea0c868d0ec9104"><td class="memItemLeft" align="right" valign="top"><a id="a4a33b23b500349187ea0c868d0ec9104" name="a4a33b23b500349187ea0c868d0ec9104"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>DisableAllSyncBinding</b> ()</td></tr>
+<tr class="memdesc:a4a33b23b500349187ea0c868d0ec9104"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stops the synchronization of all previously enabled assets. <br /></td></tr>
+<tr class="separator:a4a33b23b500349187ea0c868d0ec9104"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa04b35b2c4a3f9cb85d92ffffcbd8dc0"><td class="memItemLeft" align="right" valign="top"><a id="aa04b35b2c4a3f9cb85d92ffffcbd8dc0" name="aa04b35b2c4a3f9cb85d92ffffcbd8dc0"></a>
+void&#160;</td><td class="memItemRight" valign="bottom"><b>StartProgressBarUpdater</b> ()</td></tr>
+<tr class="memdesc:aa04b35b2c4a3f9cb85d92ffffcbd8dc0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Starts the task that updates a progress bar in parallel. <br /></td></tr>
+<tr class="separator:aa04b35b2c4a3f9cb85d92ffffcbd8dc0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aeaf9cc777796d21dba9544eb47bf979c"><td class="memItemLeft" align="right" valign="top">Task&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#aeaf9cc777796d21dba9544eb47bf979c">StopProgressBarUpdater</a> ()</td></tr>
+<tr class="memdesc:aeaf9cc777796d21dba9544eb47bf979c"><td class="mdescLeft">&#160;</td><td class="mdescRight">Stops the task that updates a progress bar in parallel.  <a href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#aeaf9cc777796d21dba9544eb47bf979c">More...</a><br /></td></tr>
+<tr class="separator:aeaf9cc777796d21dba9544eb47bf979c"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ac8f3ab2b24c69473a090e32a79dbfd6f"><td class="memItemLeft" align="right" valign="top">Task&lt; bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#ac8f3ab2b24c69473a090e32a79dbfd6f">GenerateGMLCache</a> (ThreadLocal&lt; <a class="el" href="class_undertale_mod_lib_1_1_decompiler_1_1_global_decompile_context.html">Decompiler.GlobalDecompileContext</a> &gt; decompileContext=null, object dialog=null, bool clearGMLEditedBefore=false)</td></tr>
+<tr class="memdesc:ac8f3ab2b24c69473a090e32a79dbfd6f"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generates a decompiled code cache to accelerate operations that need to access code often.  <a href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#ac8f3ab2b24c69473a090e32a79dbfd6f">More...</a><br /></td></tr>
+<tr class="separator:ac8f3ab2b24c69473a090e32a79dbfd6f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a13d086defb8e7005a9d6cc5700b4d85e"><td class="memItemLeft" align="right" valign="top">void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a13d086defb8e7005a9d6cc5700b4d85e">ChangeSelection</a> (object newSelection)</td></tr>
 <tr class="memdesc:a13d086defb8e7005a9d6cc5700b4d85e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Changes the currently selected in the GUI.  <a href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a13d086defb8e7005a9d6cc5700b4d85e">More...</a><br /></td></tr>
 <tr class="separator:a13d086defb8e7005a9d6cc5700b4d85e"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -321,6 +323,7 @@ string&#160;</td><td class="memItemRight" valign="bottom"><b>ScriptErrorType</b>
 <tr class="separator:af8d70deee5bac34baf2047b90ffe92ad"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0538ef3d6a3d2670e61f5d671d408e53"><td class="memItemLeft" align="right" valign="top"><a id="a0538ef3d6a3d2670e61f5d671d408e53" name="a0538ef3d6a3d2670e61f5d671d408e53"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>GMLCacheEnabled</b><code> [get]</code></td></tr>
+<tr class="memdesc:a0538ef3d6a3d2670e61f5d671d408e53"><td class="mdescLeft">&#160;</td><td class="mdescRight">Indicates whether the user has enabled the setting to use decompiled code cache. <br /></td></tr>
 <tr class="separator:a0538ef3d6a3d2670e61f5d671d408e53"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a5d4cd0b2da5ebd289ad777efede3707a"><td class="memItemLeft" align="right" valign="top"><a id="a5d4cd0b2da5ebd289ad777efede3707a" name="a5d4cd0b2da5ebd289ad777efede3707a"></a>
 bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsAppClosed</b><code> [get]</code></td></tr>
@@ -480,6 +483,51 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsAppClosed</b><code>
 
 <p>Method returning a dummy string value. </p>
 <dl class="section return"><dt>Returns</dt><dd>Returns a dummy string value.</dd></dl>
+
+</div>
+</div>
+<a id="ac8f3ab2b24c69473a090e32a79dbfd6f" name="ac8f3ab2b24c69473a090e32a79dbfd6f"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ac8f3ab2b24c69473a090e32a79dbfd6f">&#9670;&nbsp;</a></span>GenerateGMLCache()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task&lt; bool &gt; UndertaleModLib.Scripting.IScriptInterface.GenerateGMLCache </td>
+          <td>(</td>
+          <td class="paramtype">ThreadLocal&lt; <a class="el" href="class_undertale_mod_lib_1_1_decompiler_1_1_global_decompile_context.html">Decompiler.GlobalDecompileContext</a> &gt;&#160;</td>
+          <td class="paramname"><em>decompileContext</em> = <code>null</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">object&#160;</td>
+          <td class="paramname"><em>dialog</em> = <code>null</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>clearGMLEditedBefore</em> = <code>false</code>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Generates a decompiled code cache to accelerate operations that need to access code often. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">decompileContext</td><td>The GlobalDecompileContext.</td></tr>
+    <tr><td class="paramname">dialog</td><td>The dialog that should be shown. If <code>null</code> then a new dialog will be automatically created and shown.</td></tr>
+    <tr><td class="paramname">clearGMLEditedBefore</td><td>Whether to clear UndertaleData.GMLEditedBefore from <a class="el" href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a70a51acdfffe11ada27a4270c8842574" title="The data file.">Data</a>.</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Whether the decompiled GML cache was generated or not. <code>true</code> if it was successful, <code>false</code> if it wasn't or <a class="el" href="interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a0538ef3d6a3d2670e61f5d671d408e53" title="Indicates whether the user has enabled the setting to use decompiled code cache.">GMLCacheEnabled</a> is disabled.</dd></dl>
 
 </div>
 </div>
@@ -1210,6 +1258,63 @@ bool&#160;</td><td class="memItemRight" valign="bottom"><b>IsAppClosed</b><code>
     <tr><td class="paramname">label</td><td>A label describing the output.</td></tr>
     <tr><td class="paramname">message</td><td>The message to convey to the user.</td></tr>
     <tr><td class="paramname">allowMultiline</td><td>Whether to allow the message to be multiline or not. Should this be false but <em>message</em>  have multiple lines, then only the first line will be shown.</td></tr>
+  </table>
+  </dd>
+</dl>
+
+</div>
+</div>
+<a id="aeaf9cc777796d21dba9544eb47bf979c" name="aeaf9cc777796d21dba9544eb47bf979c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aeaf9cc777796d21dba9544eb47bf979c">&#9670;&nbsp;</a></span>StopProgressBarUpdater()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">Task UndertaleModLib.Scripting.IScriptInterface.StopProgressBarUpdater </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Stops the task that updates a progress bar in parallel. </p>
+<dl class="section return"><dt>Returns</dt><dd>A task that represents the stopped progress updater.</dd></dl>
+
+</div>
+</div>
+<a id="a4d7390e1a50a9213a18cf512b5b8cfac" name="a4d7390e1a50a9213a18cf512b5b8cfac"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4d7390e1a50a9213a18cf512b5b8cfac">&#9670;&nbsp;</a></span>SyncBinding()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">void UndertaleModLib.Scripting.IScriptInterface.SyncBinding </td>
+          <td>(</td>
+          <td class="paramtype">string&#160;</td>
+          <td class="paramname"><em>resourceType</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">bool&#160;</td>
+          <td class="paramname"><em>enable</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Allows scripts to synchronize their assets with the lists from the UI. </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">resourceType</td><td>A comma separated list of asset list names. This is case sensitive.</td></tr>
+    <tr><td class="paramname">enable</td><td>Whether to enable or disable the synchronization.</td></tr>
   </table>
   </dd>
 </dl>

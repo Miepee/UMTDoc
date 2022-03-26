@@ -32,7 +32,8 @@ var searchData=
   ['createnew_29',['CreateNew',['../class_undertale_mod_lib_1_1_undertale_data.html#ac4c0cfec32258840c0fa26ec75a6cba9',1,'UndertaleModLib::UndertaleData']]],
   ['creationcode_30',['CreationCode',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_game_object.html#ad2bcc20eeb2b76f5ff21286695f79dcd',1,'UndertaleModLib::Models::UndertaleRoom::GameObject']]],
   ['creationcodeid_31',['CreationCodeId',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room.html#abe3356fe7c004691f3f42e8732315df3',1,'UndertaleModLib::Models::UndertaleRoom']]],
-  ['curvedata_32',['CurveData',['../class_undertale_mod_lib_1_1_models_1_1_undertale_sequence_1_1_curve_data.html',1,'UndertaleModLib::Models::UndertaleSequence']]],
-  ['custom_33',['Custom',['../namespace_undertale_mod_lib_1_1_models.html#a38cd32f7bb97bbefe286d0ad35e1b8e0a90589c47f06eb971d548591f23c285af',1,'UndertaleModLib::Models']]],
-  ['custombitarray_34',['CustomBitArray',['../class_undertale_mod_lib_1_1_util_1_1_custom_bit_array.html',1,'UndertaleModLib::Util']]]
+  ['currentmd5_32',['CurrentMD5',['../class_undertale_mod_lib_1_1_tool_info.html#aedcd84a53071b6e28254da5544a613c1',1,'UndertaleModLib::ToolInfo']]],
+  ['curvedata_33',['CurveData',['../class_undertale_mod_lib_1_1_models_1_1_undertale_sequence_1_1_curve_data.html',1,'UndertaleModLib::Models::UndertaleSequence']]],
+  ['custom_34',['Custom',['../namespace_undertale_mod_lib_1_1_models.html#a38cd32f7bb97bbefe286d0ad35e1b8e0a90589c47f06eb971d548591f23c285af',1,'UndertaleModLib::Models']]],
+  ['custombitarray_35',['CustomBitArray',['../class_undertale_mod_lib_1_1_util_1_1_custom_bit_array.html',1,'UndertaleModLib::Util']]]
 ];

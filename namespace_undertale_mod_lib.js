@@ -11,7 +11,7 @@ var namespace_undertale_mod_lib =
     [ "ISearchable", "interface_undertale_mod_lib_1_1_i_searchable.html", null ],
     [ "PaddedObject", "interface_undertale_mod_lib_1_1_padded_object.html", null ],
     [ "PrePaddedObject", "interface_undertale_mod_lib_1_1_pre_padded_object.html", null ],
-    [ "ToolInfo", "class_undertale_mod_lib_1_1_tool_info.html", null ],
+    [ "ToolInfo", "class_undertale_mod_lib_1_1_tool_info.html", "class_undertale_mod_lib_1_1_tool_info" ],
     [ "UndertaleAlignUpdatedListChunk", "class_undertale_mod_lib_1_1_undertale_align_updated_list_chunk.html", null ],
     [ "UndertaleChunk", "class_undertale_mod_lib_1_1_undertale_chunk.html", null ],
     [ "UndertaleChunkACRV", "class_undertale_mod_lib_1_1_undertale_chunk_a_c_r_v.html", null ],
