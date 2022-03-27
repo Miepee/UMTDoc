@@ -39,5 +39,6 @@ var searchData=
   ['expressiontwo_36',['ExpressionTwo',['../class_undertale_mod_lib_1_1_decompiler_1_1_decompiler_1_1_expression_two.html',1,'UndertaleModLib::Decompiler::Decompiler']]],
   ['expressiontwosymbol_37',['ExpressionTwoSymbol',['../class_undertale_mod_lib_1_1_decompiler_1_1_decompiler_1_1_expression_two_symbol.html',1,'UndertaleModLib::Decompiler::Decompiler']]],
   ['expressionvar_38',['ExpressionVar',['../class_undertale_mod_lib_1_1_decompiler_1_1_decompiler_1_1_expression_var.html',1,'UndertaleModLib::Decompiler::Decompiler']]],
-  ['extensions_39',['Extensions',['../class_undertale_mod_lib_1_1_undertale_data.html#ac40981ff8115f5f5f7ef93771e9fa8b1',1,'UndertaleModLib::UndertaleData']]]
+  ['extensionfindlastid_39',['ExtensionFindLastId',['../class_undertale_mod_lib_1_1_undertale_data.html#a9565c3fa3c72cfe2b8a74a6bebc48687',1,'UndertaleModLib::UndertaleData']]],
+  ['extensions_40',['Extensions',['../class_undertale_mod_lib_1_1_undertale_data.html#ac40981ff8115f5f5f7ef93771e9fa8b1',1,'UndertaleModLib::UndertaleData']]]
 ];

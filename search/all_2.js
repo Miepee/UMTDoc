@@ -3,8 +3,8 @@ var searchData=
   ['b_0',['B',['../namespace_undertale_mod_lib_1_1_models.html#a9d11a18ea776a76c32188ab6aa59b9f2a9d5ed678fe57bcca610140957afab571',1,'UndertaleModLib::Models']]],
   ['background_1',['Background',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_background.html',1,'UndertaleModLib::Models::UndertaleRoom']]],
   ['backgroundcolor_2',['BackgroundColor',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room.html#a2eeef3b07017c0f7e9b8115de30e89de',1,'UndertaleModLib::Models::UndertaleRoom']]],
-  ['backgrounddefinition_3',['BackgroundDefinition',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_background.html#a25e24640d00f61abb487cdabea8035a7',1,'UndertaleModLib.Models.UndertaleRoom.Background.BackgroundDefinition()'],['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_tile.html#a1923b4c9fd5e2f030b1c041285140286',1,'UndertaleModLib.Models.UndertaleRoom.Tile.BackgroundDefinition()']]],
-  ['backgrounds_4',['Backgrounds',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room.html#a20afa5cc56790d1f4a449383178cc5b6',1,'UndertaleModLib.Models.UndertaleRoom.Backgrounds()'],['../class_undertale_mod_lib_1_1_undertale_data.html#af719f68b5ab85862d0e10123affeac47',1,'UndertaleModLib.UndertaleData.Backgrounds()']]],
+  ['backgrounddefinition_3',['BackgroundDefinition',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_tile.html#a1923b4c9fd5e2f030b1c041285140286',1,'UndertaleModLib.Models.UndertaleRoom.Tile.BackgroundDefinition()'],['../class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_background.html#a25e24640d00f61abb487cdabea8035a7',1,'UndertaleModLib.Models.UndertaleRoom.Background.BackgroundDefinition()']]],
+  ['backgrounds_4',['Backgrounds',['../class_undertale_mod_lib_1_1_undertale_data.html#af719f68b5ab85862d0e10123affeac47',1,'UndertaleModLib.UndertaleData.Backgrounds()'],['../class_undertale_mod_lib_1_1_models_1_1_undertale_room.html#a20afa5cc56790d1f4a449383178cc5b6',1,'UndertaleModLib.Models.UndertaleRoom.Backgrounds()']]],
   ['beginstep_5',['BeginStep',['../namespace_undertale_mod_lib_1_1_models.html#ab43a91eead405638c538d48818ca8b7aa971048f806ae4afb6e163ec27d349f2a',1,'UndertaleModLib::Models']]],
   ['bgcolorlayer_6',['BGColorLayer',['../class_undertale_mod_lib_1_1_models_1_1_undertale_room.html#a1a99f6ce88aafe14ad1f3e617717b60a',1,'UndertaleModLib::Models::UndertaleRoom']]],
   ['block_7',['Block',['../class_undertale_mod_lib_1_1_decompiler_1_1_decompiler_1_1_block.html',1,'UndertaleModLib::Decompiler::Decompiler']]],
@@ -28,10 +28,11 @@ var searchData=
   ['box_25',['Box',['../namespace_undertale_mod_lib_1_1_models.html#a38cd32f7bb97bbefe286d0ad35e1b8e0a3cfce651e667ab85486dd42a8185f98a',1,'UndertaleModLib::Models']]],
   ['breakhlstatement_26',['BreakHLStatement',['../class_undertale_mod_lib_1_1_decompiler_1_1_decompiler_1_1_break_h_l_statement.html',1,'UndertaleModLib::Decompiler::Decompiler']]],
   ['broadcastmessage_27',['BroadcastMessage',['../class_undertale_mod_lib_1_1_models_1_1_undertale_sequence_1_1_broadcast_message.html',1,'UndertaleModLib::Models::UndertaleSequence']]],
-  ['bufferbinaryreader_28',['BufferBinaryReader',['../class_undertale_mod_lib_1_1_util_1_1_buffer_binary_reader.html',1,'UndertaleModLib::Util']]],
-  ['bufferbinarywriter_29',['BufferBinaryWriter',['../class_undertale_mod_lib_1_1_util_1_1_buffer_binary_writer.html',1,'UndertaleModLib::Util']]],
-  ['build_30',['Build',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#ad14df657247da9c105bc58f5c8e11b5b',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]],
-  ['builtinlist_31',['BuiltinList',['../class_undertale_mod_lib_1_1_undertale_data.html#aac73ecde19d157d371712f44aa756f3b',1,'UndertaleModLib.UndertaleData.BuiltinList()'],['../class_undertale_mod_lib_1_1_compiler_1_1_builtin_list.html',1,'UndertaleModLib.Compiler.BuiltinList']]],
-  ['byname_32',['ByName',['../class_undertale_mod_lib_1_1_undertale_data.html#a57dd2a9d4e6ff433c07d01c3d1964ade',1,'UndertaleModLib::UndertaleData']]],
-  ['bytecodeversion_33',['BytecodeVersion',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#a141c4495608226ba2c7a6b8a45a31725',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]]
+  ['buffer_28',['Buffer',['../struct_undertale_mod_lib_1_1_ipc_reply__t.html#aaee8cc61cfdf56e45e2686f5e855d91b',1,'UndertaleModLib.IpcReply_t.Buffer()'],['../struct_undertale_mod_lib_1_1_ipc_message__t.html#a0dfaeec6a9f45b6a4ab937ed207ab715',1,'UndertaleModLib.IpcMessage_t.Buffer()']]],
+  ['bufferbinaryreader_29',['BufferBinaryReader',['../class_undertale_mod_lib_1_1_util_1_1_buffer_binary_reader.html',1,'UndertaleModLib::Util']]],
+  ['bufferbinarywriter_30',['BufferBinaryWriter',['../class_undertale_mod_lib_1_1_util_1_1_buffer_binary_writer.html',1,'UndertaleModLib::Util']]],
+  ['build_31',['Build',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#ad14df657247da9c105bc58f5c8e11b5b',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]],
+  ['builtinlist_32',['BuiltinList',['../class_undertale_mod_lib_1_1_undertale_data.html#aac73ecde19d157d371712f44aa756f3b',1,'UndertaleModLib.UndertaleData.BuiltinList()'],['../class_undertale_mod_lib_1_1_compiler_1_1_builtin_list.html',1,'UndertaleModLib.Compiler.BuiltinList']]],
+  ['byname_33',['ByName',['../class_undertale_mod_lib_1_1_undertale_data.html#a57dd2a9d4e6ff433c07d01c3d1964ade',1,'UndertaleModLib::UndertaleData']]],
+  ['bytecodeversion_34',['BytecodeVersion',['../class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#a141c4495608226ba2c7a6b8a45a31725',1,'UndertaleModLib::Models::UndertaleGeneralInfo']]]
 ];

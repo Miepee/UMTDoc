@@ -88,8 +88,8 @@ var annotated_dup =
         [ "Pair", "class_undertale_mod_lib_1_1_util_1_1_pair.html", null ],
         [ "TextureWorker", "class_undertale_mod_lib_1_1_util_1_1_texture_worker.html", null ]
       ] ],
-      [ "IpcMessage_t", "struct_undertale_mod_lib_1_1_ipc_message__t.html", null ],
-      [ "IpcReply_t", "struct_undertale_mod_lib_1_1_ipc_reply__t.html", null ],
+      [ "IpcMessage_t", "struct_undertale_mod_lib_1_1_ipc_message__t.html", "struct_undertale_mod_lib_1_1_ipc_message__t" ],
+      [ "IpcReply_t", "struct_undertale_mod_lib_1_1_ipc_reply__t.html", "struct_undertale_mod_lib_1_1_ipc_reply__t" ],
       [ "ISearchable", "interface_undertale_mod_lib_1_1_i_searchable.html", "interface_undertale_mod_lib_1_1_i_searchable" ],
       [ "PaddedObject", "interface_undertale_mod_lib_1_1_padded_object.html", "interface_undertale_mod_lib_1_1_padded_object" ],
       [ "PrePaddedObject", "interface_undertale_mod_lib_1_1_pre_padded_object.html", null ],

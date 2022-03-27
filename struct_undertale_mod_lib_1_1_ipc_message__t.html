@@ -98,13 +98,44 @@ byte[]&#160;</td><td class="memItemRight" valign="bottom"><b>RawBytes</b> ()</td
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-attribs" name="pub-attribs"></a>
 Public Attributes</h2></td></tr>
-<tr class="memitem:afd0787d28c0e9d9130d30496bc5d2456"><td class="memItemLeft" align="right" valign="top"><a id="afd0787d28c0e9d9130d30496bc5d2456" name="afd0787d28c0e9d9130d30496bc5d2456"></a>
-short&#160;</td><td class="memItemRight" valign="bottom"><b>FuncID</b></td></tr>
+<tr class="memitem:afd0787d28c0e9d9130d30496bc5d2456"><td class="memItemLeft" align="right" valign="top">short&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="struct_undertale_mod_lib_1_1_ipc_message__t.html#afd0787d28c0e9d9130d30496bc5d2456">FuncID</a></td></tr>
+<tr class="memdesc:afd0787d28c0e9d9130d30496bc5d2456"><td class="mdescLeft">&#160;</td><td class="mdescRight">A numerical value (1 to 4 for the latest AUMI implementation).  <a href="struct_undertale_mod_lib_1_1_ipc_message__t.html#afd0787d28c0e9d9130d30496bc5d2456">More...</a><br /></td></tr>
 <tr class="separator:afd0787d28c0e9d9130d30496bc5d2456"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0dfaeec6a9f45b6a4ab937ed207ab715"><td class="memItemLeft" align="right" valign="top"><a id="a0dfaeec6a9f45b6a4ab937ed207ab715" name="a0dfaeec6a9f45b6a4ab937ed207ab715"></a>
 byte[]&#160;</td><td class="memItemRight" valign="bottom"><b>Buffer</b></td></tr>
+<tr class="memdesc:a0dfaeec6a9f45b6a4ab937ed207ab715"><td class="mdescLeft">&#160;</td><td class="mdescRight">A 512 byte buffer containing information which accompanies <a class="el" href="struct_undertale_mod_lib_1_1_ipc_message__t.html#afd0787d28c0e9d9130d30496bc5d2456" title="A numerical value (1 to 4 for the latest AUMI implementation).">FuncID</a>. <br /></td></tr>
 <tr class="separator:a0dfaeec6a9f45b6a4ab937ed207ab715"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Member Data Documentation</h2>
+<a id="afd0787d28c0e9d9130d30496bc5d2456" name="afd0787d28c0e9d9130d30496bc5d2456"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#afd0787d28c0e9d9130d30496bc5d2456">&#9670;&nbsp;</a></span>FuncID</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">short UndertaleModLib.IpcMessage_t.FuncID</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>A numerical value (1 to 4 for the latest AUMI implementation). </p>
+<p >The following table describes and explains the numerical values: </p><table class="doxtable">
+<tr>
+<th>number </th><th>Explanation  </th></tr>
+<tr>
+<td>1 </td><td>Test Communication - Always returns a string that's 128 characters long.  </td></tr>
+<tr>
+<td>2 </td><td>Get Function By Index - Returns information about a function at a specified index in the runner.  </td></tr>
+<tr>
+<td>3 </td><td>Get Function By Name - Returns information about a function with a specified name.  </td></tr>
+<tr>
+<td>4 </td><td>Execute Code - Executes precompiled bytecode in the global context.  </td></tr>
+</table>
+<p>/remarks&gt; </p>
+
+</div>
+</div>
 <hr/>The documentation for this struct was generated from the following file:<ul>
 <li>AumiIPC.cs</li>
 </ul>

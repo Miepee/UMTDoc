@@ -1,6 +1,8 @@
 var class_undertale_mod_lib_1_1_undertale_data =
 [
     [ "ByName", "class_undertale_mod_lib_1_1_undertale_data.html#a57dd2a9d4e6ff433c07d01c3d1964ade", null ],
+    [ "ExtensionFindLastId", "class_undertale_mod_lib_1_1_undertale_data.html#a9565c3fa3c72cfe2b8a74a6bebc48687", null ],
+    [ "GetBuiltinSoundGroupID", "class_undertale_mod_lib_1_1_undertale_data.html#aacf15ab613cab119e783583f95ba92a1", null ],
     [ "IndexOf", "class_undertale_mod_lib_1_1_undertale_data.html#a0cf47e213193385e27d9acc13bba01d7", null ],
     [ "IsGameMaker2", "class_undertale_mod_lib_1_1_undertale_data.html#aeaf3b77e981befde41e324fcc95083a5", null ],
     [ "IsVersionAtLeast", "class_undertale_mod_lib_1_1_undertale_data.html#a6ff4bea44b771dcc0df8a73347216d9e", null ],
@@ -25,6 +27,7 @@ var class_undertale_mod_lib_1_1_undertale_data =
     [ "Backgrounds", "class_undertale_mod_lib_1_1_undertale_data.html#af719f68b5ab85862d0e10123affeac47", null ],
     [ "Code", "class_undertale_mod_lib_1_1_undertale_data.html#a45c0896e7df2b448998c3321c66e8ac8", null ],
     [ "CodeLocals", "class_undertale_mod_lib_1_1_undertale_data.html#ae13c8b138da86a60fc0f9ad8de8d92ab", null ],
+    [ "DifferentVarCounts", "class_undertale_mod_lib_1_1_undertale_data.html#a4c0c302e423084e7c3e1b4ee2dbe4e01", null ],
     [ "EmbeddedAudio", "class_undertale_mod_lib_1_1_undertale_data.html#ae1f7937848077ec54d8a024122c496c5", null ],
     [ "EmbeddedImages", "class_undertale_mod_lib_1_1_undertale_data.html#a7f254951833fbc7c1b9e00c41bbca26c", null ],
     [ "EmbeddedTextures", "class_undertale_mod_lib_1_1_undertale_data.html#a49eaa98c19e9c162fa425ca30c1d473c", null ],
@@ -42,6 +45,7 @@ var class_undertale_mod_lib_1_1_undertale_data =
     [ "GMLCacheWasSaved", "class_undertale_mod_lib_1_1_undertale_data.html#a886f98278cb243b4d1e7ed0eadc0906f", null ],
     [ "GMLEditedBefore", "class_undertale_mod_lib_1_1_undertale_data.html#a83f11ed57f5bf7f545aae8f0ea8b44a2", null ],
     [ "Language", "class_undertale_mod_lib_1_1_undertale_data.html#adef58b1f94e3a7d27b28876a5913a7b9", null ],
+    [ "MaxLocalVarCount", "class_undertale_mod_lib_1_1_undertale_data.html#a0f63bae7806c347e2dcdee54b53863a2", null ],
     [ "Options", "class_undertale_mod_lib_1_1_undertale_data.html#a311782b356391838a7736715fcd39410", null ],
     [ "Paths", "class_undertale_mod_lib_1_1_undertale_data.html#a6c394cf563caa76a3626065695fcfa35", null ],
     [ "Rooms", "class_undertale_mod_lib_1_1_undertale_data.html#aea8edc970b4d7c2b40d9eeae79809f24", null ],
@@ -51,10 +55,12 @@ var class_undertale_mod_lib_1_1_undertale_data =
     [ "Sounds", "class_undertale_mod_lib_1_1_undertale_data.html#a9ec48e614a3a6894ab829a5a49f37c63", null ],
     [ "Sprites", "class_undertale_mod_lib_1_1_undertale_data.html#a0db16772c8bb19f1aad64d048d6c1289", null ],
     [ "Strings", "class_undertale_mod_lib_1_1_undertale_data.html#af1fc83aba5a4b2fa8ece49ddb8aa8dbc", null ],
+    [ "TextureGroupInfo", "class_undertale_mod_lib_1_1_undertale_data.html#ae5826a19912dce75cf5bbf8930352ce8", null ],
     [ "TexturePageItems", "class_undertale_mod_lib_1_1_undertale_data.html#aed0c4b40bcab9bfc095728309ca25385", null ],
     [ "this[string resourceTypeName]", "class_undertale_mod_lib_1_1_undertale_data.html#a08696eba4f244f064cddc9eeb3881d33", null ],
     [ "this[Type resourceType]", "class_undertale_mod_lib_1_1_undertale_data.html#ae74752bd5b4329f5e95c3de66b7605a8", null ],
     [ "Timelines", "class_undertale_mod_lib_1_1_undertale_data.html#aebbdea9c24dbecb49e4d56aa7e1c5f54", null ],
     [ "VarCount1", "class_undertale_mod_lib_1_1_undertale_data.html#afdae108e85cf1feddc985e353f6734f2", null ],
+    [ "VarCount2", "class_undertale_mod_lib_1_1_undertale_data.html#a4d1acde3f7c0ed2cd7d04ec0c701c3ea", null ],
     [ "Variables", "class_undertale_mod_lib_1_1_undertale_data.html#a9da445a35e557794ae159adb5d882cfb", null ]
 ];
