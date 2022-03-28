@@ -26,22 +26,17 @@ var NAVTREE =
 [
   [ "UMT doc", "index.html", [
     [ "Packages", "namespaces.html", [
-      [ "Packages", "namespaces.html", "namespaces_dup" ],
-      [ "Package Functions", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", null ],
-        [ "Enumerations", "namespacemembers_enum.html", null ]
-      ] ]
+      [ "Packages", "namespaces.html", "namespaces_dup" ]
     ] ],
     [ "Classes", "annotated.html", [
       [ "Class List", "annotated.html", "annotated_dup" ],
       [ "Class Index", "classes.html", null ],
       [ "Class Hierarchy", "hierarchy.html", "hierarchy" ],
       [ "Class Members", "functions.html", [
-        [ "All", "functions.html", "functions_dup" ],
-        [ "Functions", "functions_func.html", "functions_func" ],
+        [ "All", "functions.html", null ],
+        [ "Functions", "functions_func.html", null ],
         [ "Variables", "functions_vars.html", null ],
-        [ "Enumerations", "functions_enum.html", null ],
-        [ "Properties", "functions_prop.html", "functions_prop" ]
+        [ "Properties", "functions_prop.html", null ]
       ] ]
     ] ]
   ] ]
@@ -50,15 +45,7 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "annotated.html",
-"class_undertale_mod_lib_1_1_models_1_1_undertale_font.html#a7b55ad0c0878ab68a8d32b84499d1f74",
-"class_undertale_mod_lib_1_1_models_1_1_undertale_general_info.html#a9823c88460bf6cac1d073015f07f19cba6adf97f83acf6453d4a6a4b1070f3754",
-"class_undertale_mod_lib_1_1_models_1_1_undertale_options.html#a166fcd1788877993f0eeee150015a6f2adb1a95448dba45dc002afd9564a486de",
-"class_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_sprite_instance.html#a58c9bf4be28a1aed35b4171ab912d69b",
-"class_undertale_mod_lib_1_1_models_1_1_undertale_shader.html#abb0cdb8721b20a86ed1b7180163af5a4a740339e1e0535568b12e5b056338251f",
-"class_undertale_mod_lib_1_1_models_1_1_undertale_y_y_s_w_f_bitmap_data.html#ab6681140cba93ea1bcd9a26e1dead0e8",
-"class_undertale_mod_lib_1_1_undertale_data.html#a57dd2a9d4e6ff433c07d01c3d1964ade",
-"interface_undertale_mod_lib_1_1_models_1_1_undertale_room_1_1_room_object.html#a509d5debe6444deb27e0ec10d6b2f4ce",
-"namespace_undertale_mod_lib_1_1_models.html#a7420520ced25616a81c0d34c87a87794af2a47c6809d88e175dade0ef7b16aa13"
+"class_undertale_mod_lib_1_1_undertale_simple_list.html#ab11f1df69e9b00a74bdea757a1ec0bb1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

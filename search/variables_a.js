@@ -1,5 +1,6 @@
 var searchData=
 [
-  ['scriptargscache_0',['ScriptArgsCache',['../class_undertale_mod_lib_1_1_decompiler_1_1_global_decompile_context.html#a767e08096affb233aa935554fdc924fb',1,'UndertaleModLib::Decompiler::GlobalDecompileContext']]],
-  ['shortcircuit_1',['ShortCircuit',['../class_undertale_mod_lib_1_1_undertale_data.html#ad36b0aa96c90e76850f16454c84d59ad',1,'UndertaleModLib::UndertaleData']]]
+  ['unsupportedbytecodeversion_0',['UnsupportedBytecodeVersion',['../class_undertale_mod_lib_1_1_undertale_data.html#adad8919c6f2b8b3634b7537e35cc2b94',1,'UndertaleModLib::UndertaleData']]],
+  ['usebzipformat_1',['UseBZipFormat',['../class_undertale_mod_lib_1_1_undertale_data.html#ae21f80f30485ebe1924ddc8f38426e97',1,'UndertaleModLib::UndertaleData']]],
+  ['useqoiformat_2',['UseQoiFormat',['../class_undertale_mod_lib_1_1_undertale_data.html#a64a688a1f1f0260ac6664239644633d4',1,'UndertaleModLib::UndertaleData']]]
 ];
