@@ -4,6 +4,8 @@ var interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface =
     [ "AddProgressParallel", "interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a5c432346ec3e22ef2ab831c06ffdf7a5", null ],
     [ "AreFilesIdentical", "interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a95ac63407cb989ebc36e67da54349948", null ],
     [ "ChangeSelection", "interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a13d086defb8e7005a9d6cc5700b4d85e", null ],
+    [ "ClickableSearchOutput", "interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#ac50f47ea719c29096fa1ab79adabad96", null ],
+    [ "ClickableSearchOutput", "interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a6ee2602686c59d6982a1944286ddc652", null ],
     [ "DisableAllSyncBindings", "interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a6ef010350d0fa1ba0d831f6de6a215dd", null ],
     [ "DummyBool", "interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#a1e2f12099a0e09c52bf7dfce7c4a4fcf", null ],
     [ "DummyString", "interface_undertale_mod_lib_1_1_scripting_1_1_i_script_interface.html#ab21a1120df74ea83a1cb01a4cfc38cab", null ],

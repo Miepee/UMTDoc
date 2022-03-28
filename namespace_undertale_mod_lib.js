@@ -1,5 +1,11 @@
 var namespace_undertale_mod_lib =
 [
+    [ "Compiler", "namespace_undertale_mod_lib_1_1_compiler.html", "namespace_undertale_mod_lib_1_1_compiler" ],
+    [ "Decompiler", "namespace_undertale_mod_lib_1_1_decompiler.html", "namespace_undertale_mod_lib_1_1_decompiler" ],
+    [ "Models", "namespace_undertale_mod_lib_1_1_models.html", "namespace_undertale_mod_lib_1_1_models" ],
+    [ "ModelsDebug", "namespace_undertale_mod_lib_1_1_models_debug.html", "namespace_undertale_mod_lib_1_1_models_debug" ],
+    [ "Scripting", "namespace_undertale_mod_lib_1_1_scripting.html", "namespace_undertale_mod_lib_1_1_scripting" ],
+    [ "Util", "namespace_undertale_mod_lib_1_1_util.html", "namespace_undertale_mod_lib_1_1_util" ],
     [ "IpcMessage_t", "struct_undertale_mod_lib_1_1_ipc_message__t.html", "struct_undertale_mod_lib_1_1_ipc_message__t" ],
     [ "IpcReply_t", "struct_undertale_mod_lib_1_1_ipc_reply__t.html", "struct_undertale_mod_lib_1_1_ipc_reply__t" ],
     [ "ISearchable", "interface_undertale_mod_lib_1_1_i_searchable.html", "interface_undertale_mod_lib_1_1_i_searchable" ],
